@@ -1,9 +1,9 @@
 {
   "audiovisual_files": {
     "30600835-0644-42a7-9c1e-01cd8249055c": {
-      "label": "",
+      "label": "community leaders",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://crbb.tcu.edu/files/video_file/58cb28556c69621061101800/Montejano_Diana20160729_1.mp4",
       "duration": 406,
       "caption_set": [],
@@ -16,18 +16,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "NTX Leads"
         }
       ]
     }
   ],
-  "citation": "",
+  "citation": "citation",
   "label": "video",
   "av_file_order": [
     "30600835-0644-42a7-9c1e-01cd8249055c"
   ],
   "created_at": "2026-07-15T20:22:13.752Z",
   "created_by": "JTAR03",
-  "updated_at": "2026-07-15T20:22:13.752Z",
-  "updated_by": "JTAR03"
+  "updated_at": "2026-07-15T20:25:05.558Z",
+  "updated_by": "JTAR03",
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/"
 }
